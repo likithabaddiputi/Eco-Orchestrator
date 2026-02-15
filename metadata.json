@@ -1,7 +1,0 @@
-{
-  "name": "Eco-Orchestrator",
-  "description": "A futuristic central nervous system for campus sustainability, unifying food, energy, and compute into one carbon-aware brain.",
-  "requestFramePermissions": [
-    "camera"
-  ]
-}
